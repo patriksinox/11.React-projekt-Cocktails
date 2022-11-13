@@ -8,6 +8,5 @@
   <p> Tento projekt som vytvoril podľa predlohy učiteľa Johna Smilgu z Udemy , pozrel som si jeho funkcionalitu a vytvoril som celý projekt so svojím kódom a dizajnom. V projekte som použil Bootstrap, React, React Router a Axios. 😊
         </p>
         
-   
-        
-         <a href="https://11react-cocktail-projekt.netlify.app/" target="_blank">Projekt</a>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2d8d1384-fc56-40dd-a3c6-4dbc1f504dc3/deploy-status)](https://app.netlify.com/sites/11react-cocktail-projekt/deploys)
+https://11react-cocktail-projekt.netlify.app/
