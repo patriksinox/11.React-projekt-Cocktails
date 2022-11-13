@@ -10,4 +10,4 @@
         
         [![Netlify Status](https://api.netlify.com/api/v1/badges/2d8d1384-fc56-40dd-a3c6-4dbc1f504dc3/deploy-status)](https://app.netlify.com/sites/11react-cocktail-projekt/deploys)
         
-        https://11react-cocktail-projekt.netlify.app/
+         <a href="https://11react-cocktail-projekt.netlify.app/" target="_blank">Projekt</a>
